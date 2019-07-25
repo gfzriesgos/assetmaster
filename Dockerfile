@@ -8,4 +8,4 @@ RUN pip3 install geopandas Rtree lxml shapely
 
 RUN mkdir /usr/share/git
 
-RUN cd /usr/share/git && git clone https://github.com/ruester/assetmaster.git
+RUN cd /usr/share/git && git clone https://github.com/gfzriesgos/assetmaster.git
